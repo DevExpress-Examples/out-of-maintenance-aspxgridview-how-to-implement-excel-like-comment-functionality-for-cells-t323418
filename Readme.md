@@ -1,3 +1,10 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [CommentsStorage.cs](./CS/App_Code/CommentsStorage.cs) (VB: [CommentsStorage.vb](./VB/App_Code/CommentsStorage.vb))
+* [Default.aspx](./CS/Default.aspx) (VB: [Default.aspx.vb](./VB/Default.aspx.vb))
+* [Default.aspx.cs](./CS/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/Default.aspx.vb))
+<!-- default file list end -->
 # ASPxGridView - How to implement Excel-like comment functionality for cells
 
 

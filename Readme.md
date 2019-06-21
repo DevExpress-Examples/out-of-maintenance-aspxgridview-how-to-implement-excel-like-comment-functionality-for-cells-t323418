@@ -6,6 +6,9 @@
 * [Default.aspx.cs](./CS/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/Default.aspx.vb))
 <!-- default file list end -->
 # ASPxGridView - How to implement Excel-like comment functionality for cells
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/t323418/)**
+<!-- run online end -->
 
 
 <p>This example illustrates how to provide an end-user with the capability to assign comments to different cells (this is similar to the Excel-based feature: <a href="https://support.office.com/en-au/article/Annotate-a-worksheet-by-using-comments-3b7065dd-531a-4ffe-8f18-8d047a6ccae7">Annotate a worksheet by using comments</a>). Here are implementation details:</p>
